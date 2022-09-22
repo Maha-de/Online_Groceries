@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Courses/Android ODC/Day-3/Task/Day_three/app/src/main/res/layout/fragment_shop.xml" value="0.25" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/drawable-mdpi/add_item_shape.xml" value="0.1435" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/drawable-mdpi/exclusive_list_item_border.xml" value="0.1435" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/drawable-mdpi/white_add.xml" value="0.1435" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/drawable/banner_shape.xml" value="0.176" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/drawable/search_box_shape.xml" value="0.176" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/layout/activity_home_screen.xml" value="0.21" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/layout/custom_dialog.xml" value="0.21" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/layout/exclusive_list_item.xml" value="0.25" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/layout/exclusive_offer_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/layout/fragment_account.xml" value="0.15260416666666668" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/layout/fragment_cart.xml" value="0.18" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/layout/fragment_explore.xml" value="0.15260416666666668" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/layout/fragment_favourite.xml" value="0.15260416666666668" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/layout/fragment_shop.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/Maha/AndroidStudioProjects/Day_three/app/src/main/res/menu/bottom_menu.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
